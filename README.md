@@ -1,5 +1,8 @@
 # marvel
 
+Projeto consumindo a API da Marvel com Vue
+Em MarvelAPI.js dentro de src, possui uma URL base que deve ser inserida a key publica + key privada + o hash das 2 assim como no exemplo do código.
+
 > A Vue.js project
 
 ## Build Setup
